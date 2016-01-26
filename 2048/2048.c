@@ -1,3 +1,10 @@
+/*********************************************
+* Programmer: Micah Jenkins                  *
+* Date Created: 10/09/2015                   *
+* Description: My implementation of a console*
+* version of the game 2048.                  *
+**********************************************/
+
 #include "2048.h"
 
 void init_board (Cell board [][4])
